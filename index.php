@@ -16,7 +16,8 @@ session_start();
 <div style = "text-align:right;"><a href="logout.php">Logout</a></div>
 <script src="js/ajax2.js"></script>
 <div class="container contact">	
-	<h2>Projects</h2>	
+<a href="<?php $_SERVER['SERVER_ADDR'] ?>/PMS/README.md">Business Plan"></a>
+<h2>Projects</h2>	
 	<div class="col-lg-10 col-md-10 col-sm-9 col-xs-12">   		
 		<div class="panel-heading">
 			<div class="row">

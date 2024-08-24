@@ -16,6 +16,8 @@ session_start();
 <div style = "text-align:right;"><a href="logout.php">Logout</a></div>
 <script src="js/ajax2.js"></script>
 <div class="container contact">	
+<a href="https://docs.google.com/document/d/1qw09q-LCASq31GWgsL2_JrECjph1Gux7WetW3vAe32g/edit?usp=drive_link"/>
+	
 	<h2>Projects</h2>	
 	<div class="col-lg-10 col-md-10 col-sm-9 col-xs-12">   		
 		<div class="panel-heading">

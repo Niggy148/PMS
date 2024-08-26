@@ -16,7 +16,7 @@
 		      	//'serverSide': true,
 		      	//'serverMethod': 'post',
 		      	'ajax': {
-		          	url:'datatable.php'
+		          	url:'datatable1.php'
                                 
 		      	},
                         type:'json',
